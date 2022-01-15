@@ -3,7 +3,6 @@
 //  BMI Calculator
 //
 //  Created by Vansh Bhatia on 1/14/22.
-//  Copyright © 2022 Angela Yu. All rights reserved.
 //
 
 import UIKit
